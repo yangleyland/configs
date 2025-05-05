@@ -2,6 +2,7 @@
 /*
 !/nvim/
 !/alacritty/
+!/tmux/
 
 # Keep the .gitignore file itself
 !/.gitignore
