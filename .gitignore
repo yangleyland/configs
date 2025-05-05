@@ -1,0 +1,7 @@
+# Ignore all folders except nvim and alacritty
+/*
+!/nvim/
+!/alacritty/
+
+# Keep the .gitignore file itself
+!/.gitignore
