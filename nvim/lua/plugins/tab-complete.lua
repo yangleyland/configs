@@ -27,7 +27,7 @@ return {
           else
             fallback()
           end
-        end, { "i", "s", "c" }),
+        end, { "i", "s" }),
         ["<CR>"] = cmp.mapping(function(fallback)
           cmp.abort()
           fallback()
