@@ -3,6 +3,7 @@
 !/nvim/
 !/alacritty/
 !/tmux/
+!/aerospace/
 
 # Keep the .gitignore file itself
 !/.gitignore
